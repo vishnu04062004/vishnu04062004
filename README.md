@@ -24,7 +24,7 @@
 
 <img src="./assets/neon-divider.svg" alt="Decorative divider" width="100%" />
 
-## 01 / What I am building
+## What I am building
 
 <table>
 <tr>
@@ -34,7 +34,7 @@
 </tr>
 </table>
 
-## 02 / Featured work
+## Featured work
 
 <table>
 <tr>
@@ -76,7 +76,7 @@ Automotive safety prototype combining camera detection, radar, tracking, sensor 
 
 </details>
 
-## 03 / Tech stack
+## Tech stack
 
 <div align="center">
 
@@ -84,7 +84,7 @@ Automotive safety prototype combining camera detection, radar, tracking, sensor 
 
 </div>
 
-## 04 / Current trajectory
+## Current trajectory
 
 ```text
 AI Engineering -> LLM Applications -> RAG Systems -> AI Agents & MCP -> Production AI
@@ -92,7 +92,7 @@ AI Engineering -> LLM Applications -> RAG Systems -> AI Agents & MCP -> Producti
 
 My goal is to understand the engineering that takes AI from an exciting prototype to a dependable product.
 
-## 05 / Pac-Man contribution command center
+## Pac-Man contribution command center
 
 <div align="center">
 
@@ -107,7 +107,7 @@ My goal is to understand the engineering that takes AI from an exciting prototyp
 
 </div>
 
-## 06 / Beyond code
+## Beyond code
 
 Cricket | Gym | Calisthenics | Curiosity-driven experiments
 
