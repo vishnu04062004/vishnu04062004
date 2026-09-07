@@ -92,19 +92,20 @@ AI Engineering -> LLM Applications -> RAG Systems -> AI Agents & MCP -> Producti
 
 My goal is to understand the engineering that takes AI from an exciting prototype to a dependable product.
 
-## 05 / Vishnu Arcade
+## 05 / Contribution command center
 
 <div align="center">
 
-<strong>ROCKET SHOOTER // MISSION 01</strong><br />
-<img src="./assets/rocket-shooter.svg" alt="Animated neon rocket shooter game" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./dist/github-contribution-grid-snake.svg" />
+  <img src="./dist/github-contribution-grid-snake.svg" alt="Animated snake moving through Vishnu's GitHub contribution graph" width="100%" />
+</picture>
 
 <br />
-<code>ARCADE STATUS: ONLINE // CODE MODE: ACTIVE</code>
+<code>CONTRIBUTION SYSTEM: ACTIVE // SHIP SOMETHING EVERY DAY</code>
 
 </div>
-
-> This is a lightweight animated SVG scene designed to work reliably inside a GitHub profile README. A playable browser game would need to live on a separate web page because GitHub does not execute JavaScript in README files.
 
 ## 06 / Beyond code
 
