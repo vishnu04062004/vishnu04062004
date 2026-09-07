@@ -24,6 +24,27 @@
 
 <img src="./assets/neon-divider.svg" alt="Decorative divider" width="100%" />
 
+## Philosophy
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%"><strong>CODE</strong><br /><sub>Start with a question.</sub></td>
+<td align="center" width="25%"><strong>BREAK</strong><br /><sub>Test the limits.</sub></td>
+<td align="center" width="25%"><strong>FIX</strong><br /><sub>Learn from the failure.</sub></td>
+<td align="center" width="25%"><strong>SHIP &#128640;</strong><br /><sub>Make it real.</sub></td>
+</tr>
+</table>
+
+<h3>Code. Break. Fix. Ship. &#128640;</h3>
+
+</div>
+
+> **Certificates don't build things; curiosity does.** I've always learned best by rolling up my sleeves - experimenting with new technology, breaking code, fixing bugs, and shipping real projects.
+>
+> Chasing my curiosity is my biggest unfair advantage, and I intend to keep it that way.
+
 ## What I am building
 
 <table>
@@ -118,7 +139,5 @@ If you are working on an interesting AI, ML, or full-stack project, [let's conne
 <div align="center">
 
 <img src="./assets/neon-divider.svg" alt="Decorative divider" width="100%" />
-
-`Build -> Learn -> Experiment -> Ship -> Repeat`
 
 </div>
