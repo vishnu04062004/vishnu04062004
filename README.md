@@ -24,7 +24,7 @@
 
 <img src="./assets/neon-divider.svg" alt="Decorative divider" width="100%" />
 
-## <img src="https://em-content.zobj.net/source/microsoft-teams/363/rocket_1f680.png" width="25" alt="Rocket" /> What I am building
+## 01 / What I am building
 
 <table>
 <tr>
@@ -34,7 +34,7 @@
 </tr>
 </table>
 
-## <img src="https://em-content.zobj.net/source/microsoft-teams/363/sparkles_2728.png" width="25" alt="Sparkles" /> Featured work
+## 02 / Featured work
 
 <table>
 <tr>
@@ -76,7 +76,7 @@ Automotive safety prototype combining camera detection, radar, tracking, sensor 
 
 </details>
 
-## <img src="https://em-content.zobj.net/source/microsoft-teams/363/hammer-and-wrench_1f6e0-fe0f.png" width="25" alt="Tools" /> Tech stack
+## 03 / Tech stack
 
 <div align="center">
 
@@ -84,7 +84,7 @@ Automotive safety prototype combining camera detection, radar, tracking, sensor 
 
 </div>
 
-## <img src="https://em-content.zobj.net/source/microsoft-teams/363/compass_1f9ed.png" width="25" alt="Compass" /> Current trajectory
+## 04 / Current trajectory
 
 ```text
 AI Engineering -> LLM Applications -> RAG Systems -> AI Agents & MCP -> Production AI
@@ -92,20 +92,21 @@ AI Engineering -> LLM Applications -> RAG Systems -> AI Agents & MCP -> Producti
 
 My goal is to understand the engineering that takes AI from an exciting prototype to a dependable product.
 
-## <img src="https://em-content.zobj.net/source/microsoft-teams/363/bar-chart_1f4ca.png" width="25" alt="Chart" /> GitHub snapshot
+## 05 / Vishnu Arcade
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vishnu04062004&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&icon_color=C4B5FD&text_color=CBD5E1" height="165" alt="Vishnu's GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu04062004&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&text_color=CBD5E1" height="165" alt="Vishnu's top languages" />
+<strong>ROCKET SHOOTER // MISSION 01</strong><br />
+<img src="./assets/rocket-shooter.svg" alt="Animated neon rocket shooter game" width="100%" />
 
 <br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnu04062004&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Vishnu's contribution activity graph" />
+<code>ARCADE STATUS: ONLINE // CODE MODE: ACTIVE</code>
 
 </div>
 
-## Beyond code
+> This is a lightweight animated SVG scene designed to work reliably inside a GitHub profile README. A playable browser game would need to live on a separate web page because GitHub does not execute JavaScript in README files.
+
+## 06 / Beyond code
 
 Cricket | Gym | Calisthenics | Curiosity-driven experiments
 

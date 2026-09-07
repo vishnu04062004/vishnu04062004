@@ -1,0 +1,65 @@
+<svg width="1200" height="330" viewBox="0 0 1200 330" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="space" x1="0" y1="0" x2="1200" y2="330" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#050816"/>
+    <stop offset="0.52" stop-color="#11133A"/>
+    <stop offset="1" stop-color="#2A124C"/>
+  </linearGradient>
+  <linearGradient id="laser" x1="265" y1="166" x2="930" y2="166" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#67E8F9" stop-opacity="0"/>
+    <stop offset="0.18" stop-color="#67E8F9"/>
+    <stop offset="0.75" stop-color="#C4B5FD"/>
+    <stop offset="1" stop-color="#FFFFFF"/>
+  </linearGradient>
+  <linearGradient id="ship" x1="100" y1="120" x2="265" y2="210" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#FFFFFF"/>
+    <stop offset="0.55" stop-color="#C4B5FD"/>
+    <stop offset="1" stop-color="#7C3AED"/>
+  </linearGradient>
+  <filter id="glow" x="-40%" y="-300%" width="180%" height="700%">
+    <feGaussianBlur stdDeviation="5" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="soft" x="-100%" y="-100%" width="300%" height="300%">
+    <feGaussianBlur stdDeviation="2"/>
+  </filter>
+</defs>
+<rect width="1200" height="330" rx="24" fill="url(#space)"/>
+<path d="M0 250H1200M0 285H1200M130 0V330M310 0V330M490 0V330M670 0V330M850 0V330M1030 0V330" stroke="#A78BFA" stroke-opacity="0.08"/>
+<g fill="#FFFFFF">
+  <circle cx="80" cy="56" r="2" opacity="0.8"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" repeatCount="indefinite"/></circle>
+  <circle cx="420" cy="82" r="1.5" opacity="0.7"><animate attributeName="opacity" values="0.7;0.1;0.7" dur="1.8s" repeatCount="indefinite"/></circle>
+  <circle cx="755" cy="48" r="2" opacity="0.6"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.1s" repeatCount="indefinite"/></circle>
+  <circle cx="1110" cy="92" r="1.5" opacity="0.8"><animate attributeName="opacity" values="0.8;0.2;0.8" dur="2.7s" repeatCount="indefinite"/></circle>
+</g>
+<g font-family="Arial, Helvetica, sans-serif">
+  <text x="52" y="54" fill="#C4B5FD" font-size="15" letter-spacing="3">VISHNU ARCADE // MISSION 01</text>
+  <text x="52" y="84" fill="#FFFFFF" font-size="27" font-weight="700">ROCKET SHOOTER</text>
+  <text x="1030" y="54" fill="#67E8F9" font-size="14" text-anchor="end" letter-spacing="2">STATUS: ONLINE</text>
+  <text x="1030" y="82" fill="#A1A1AA" font-size="13" text-anchor="end">TARGETS LOCKED: 03</text>
+</g>
+<g transform="translate(102 122)">
+  <path d="M0 44L34 12L126 0L164 44L126 88L34 76L0 44Z" fill="url(#ship)" stroke="#E9D5FF" stroke-width="2"/>
+  <path d="M68 44L96 20L119 44L96 68L68 44Z" fill="#111827" stroke="#67E8F9" stroke-width="3"/>
+  <path d="M19 29L0 4L48 20L19 29ZM19 59L0 84L48 68L19 59Z" fill="#7C3AED" stroke="#C4B5FD" stroke-width="2"/>
+  <path d="M-36 44H6" stroke="#67E8F9" stroke-width="8" stroke-linecap="round" filter="url(#glow)"><animate attributeName="x1" values="-36;-66;-36" dur="0.35s" repeatCount="indefinite"/><animate attributeName="x2" values="6;-24;6" dur="0.35s" repeatCount="indefinite"/></path>
+</g>
+<path d="M270 166H930" stroke="url(#laser)" stroke-width="7" stroke-linecap="round" filter="url(#glow)">
+  <animate attributeName="x2" values="290;1010;290" dur="2.2s" repeatCount="indefinite"/>
+</path>
+<g transform="translate(920 130)">
+  <path d="M0 36L28 0L67 15L82 54L48 83L10 70L0 36Z" fill="#F472B6" fill-opacity="0.9" stroke="#FBCFE8" stroke-width="3">
+    <animateTransform attributeName="transform" type="rotate" values="0 41 41;18 41 41;0 41 41" dur="2.2s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="41" cy="41" r="58" stroke="#F472B6" stroke-opacity="0.25" stroke-width="2"><animate attributeName="r" values="45;72;45" dur="2.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.7;0;0.7" dur="2.2s" repeatCount="indefinite"/></circle>
+</g>
+<g transform="translate(720 214)" fill="#A78BFA" opacity="0.8">
+  <path d="M0 19L19 0L42 8L51 31L31 50L8 42L0 19Z"><animateTransform attributeName="transform" type="translate" values="0 0;160 -34;0 0" dur="3.3s" repeatCount="indefinite"/></path>
+</g>
+<g font-family="monospace">
+  <text x="52" y="286" fill="#A1A1AA" font-size="13">POWER</text>
+  <rect x="110" y="275" width="190" height="10" rx="5" fill="#27234A"/>
+  <rect x="110" y="275" width="152" height="10" rx="5" fill="#67E8F9"><animate attributeName="width" values="152;176;152" dur="2.8s" repeatCount="indefinite"/></rect>
+  <text x="1050" y="286" fill="#C4B5FD" font-size="13" text-anchor="end">SCORE 7 8 4 2</text>
+</g>
+</svg>
