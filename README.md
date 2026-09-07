@@ -92,18 +92,18 @@ AI Engineering -> LLM Applications -> RAG Systems -> AI Agents & MCP -> Producti
 
 My goal is to understand the engineering that takes AI from an exciting prototype to a dependable product.
 
-## 05 / Contribution command center
+## 05 / Pac-Man contribution command center
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dist/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./dist/github-contribution-grid-snake.svg" />
-  <img src="./dist/github-contribution-grid-snake.svg" alt="Animated snake moving through Vishnu's GitHub contribution graph" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishnu04062004/vishnu04062004/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishnu04062004/vishnu04062004/output/pacman-contribution-graph.svg" />
+  <img src="https://raw.githubusercontent.com/vishnu04062004/vishnu04062004/output/pacman-contribution-graph.svg" alt="Animated Pac-Man moving through Vishnu's GitHub contribution graph" width="100%" />
 </picture>
 
 <br />
-<code>CONTRIBUTION SYSTEM: ACTIVE // SHIP SOMETHING EVERY DAY</code>
+<code>CONTRIBUTION SYSTEM: PAC-MAN ONLINE // SHIP SOMETHING EVERY DAY</code>
 
 </div>
 
