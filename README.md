@@ -24,7 +24,7 @@
 
 <img src="./assets/neon-divider.svg" alt="Decorative divider" width="100%" />
 
-## Philosophy
+## &#129504; Philosophy
 
 <div align="center">
 
@@ -45,7 +45,7 @@
 >
 > Chasing my curiosity is my biggest unfair advantage, and I intend to keep it that way.
 
-## What I am building
+## &#128640; What I am building
 
 <table>
 <tr>
@@ -55,7 +55,7 @@
 </tr>
 </table>
 
-## Featured work
+## &#10024; Featured work
 
 <table>
 <tr>
@@ -97,7 +97,7 @@ Automotive safety prototype combining camera detection, radar, tracking, sensor 
 
 </details>
 
-## Tech stack
+## &#129520; Tech stack
 
 <div align="center">
 
@@ -105,7 +105,7 @@ Automotive safety prototype combining camera detection, radar, tracking, sensor 
 
 </div>
 
-## Current trajectory
+## &#129517; Current trajectory
 
 ```text
 AI Engineering -> LLM Applications -> RAG Systems -> AI Agents & MCP -> Production AI
@@ -113,7 +113,7 @@ AI Engineering -> LLM Applications -> RAG Systems -> AI Agents & MCP -> Producti
 
 My goal is to understand the engineering that takes AI from an exciting prototype to a dependable product.
 
-## Pac-Man contribution command center
+## &#127920; Pac-Man contribution command center
 
 <div align="center">
 
@@ -128,11 +128,11 @@ My goal is to understand the engineering that takes AI from an exciting prototyp
 
 </div>
 
-## Beyond code
+## &#127922; Beyond code
 
 Cricket | Gym | Calisthenics | Curiosity-driven experiments
 
-## Let's build something useful
+## &#128172; Let's build something useful
 
 If you are working on an interesting AI, ML, or full-stack project, [let's connect](mailto:alamurivishnu18@gmail.com).
 
